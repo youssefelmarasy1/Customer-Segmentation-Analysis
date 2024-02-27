@@ -21,6 +21,11 @@ This project focuses on customer segmentation analysis using unsupervised learni
 ## Installation
 1. Clone the repository:
 `https://github.com/youssefelmarasy1/Customer-Segmentation-Analysis.git`
+2. Install dependencies:
+   `pip install pandas`
+   `pip install scikit-learn`
+   `pip install matplotlib`
+   `pip install seaborn`
 
 ## Usage
 1. Run the Jupyter notebook `Customer_Segmentation_Analysis.ipynb` to execute the analysis steps.
