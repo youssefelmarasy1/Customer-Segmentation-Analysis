@@ -43,9 +43,6 @@ This project focuses on customer segmentation analysis using unsupervised learni
 - Explore additional data sources or features to enhance the richness of customer profiles and segmentation accuracy.
 - Collaborate with domain experts to validate findings, refine strategies, and drive impactful business decisions.
 
-## Contributors
-- Youssef Elmarasy(https://github.com/youssefelmarasy1)
-
 ## License
 This project is licensed under the [Apache License](LICENSE).
 
